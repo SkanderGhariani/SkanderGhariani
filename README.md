@@ -1,7 +1,7 @@
 # Hi there, I'm Skander Ghariani 👋
 
 ## About Me
-I'm a Software Engineer with a strong foundation in full-stack development, cloud technologies, and DevOps practices. With experience in both professional and academic settings, I focus on building efficient, scalable, and reliable software solutions.
+I'm a Software Engineer with a strong foundation in full-stack development, deployment and DevOps practices. With experience in both professional and academic settings, I focus on building efficient, scalable, and reliable software solutions.
 
 ### 💼 **Experience**
 - **Full Stack Web Developer** at MCM Tunisia (Sep 2023 - Dec 2023)
