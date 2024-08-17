@@ -37,5 +37,4 @@ I'm a Software Engineer with a strong foundation in full-stack development, clou
 ### 🌐 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/skander-ghariani-637a8a298/)
 
-![Profile views](https://komarev.com/ghpvc/?username=SkanderGhariani&color=blue)
 - 🔍 **Quote:** "Strive not to be a success, but rather to be of value." – Albert Einstein
