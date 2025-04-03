@@ -34,6 +34,13 @@ I'm a Software Engineer with a strong foundation in full-stack development, depl
 - **Testing:** JUnit, Selenium, TDD
 - **Agile Methodologies:** Agile Development, Scrum
 
+### 📊 GitHub Stats
+
+![Skander's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkanderGhariani&show_icons=true&theme=default&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkanderGhariani&layout=compact&theme=default)
+
+
 ### 🌐 **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/skander-ghariani-637a8a298/)
 
