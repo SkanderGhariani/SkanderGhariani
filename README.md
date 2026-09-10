@@ -25,6 +25,9 @@ A self-hosted multilingual voice-notes assistant for Telegram: local Whisper tra
 ### [tabletalk](https://github.com/SkanderGhariani/tabletalk)
 An agent that answers plain-language questions about a SQLite database: LangGraph state machine with run_sql / run_python / ask_user tools, a sqlglot query guard on a read-only connection, sandboxed Python for charts, and an MCP server for Claude Code. Runs on a local Qwen2.5-7B via `llama.cpp`. Evaluated on a 100-question Spider sample (67% execution accuracy) plus a behaviour suite (prompt injection, write refusal, tool-call budgets).
 
+### [pgbatch](https://github.com/SkanderGhariani/pgbatch)
+A batch job queue on PostgreSQL: HTTP API, workers that claim jobs with SKIP LOCKED and leases, retries with backoff, and fenced completion. A crash test kills workers at random during a 10,000-job batch: 0 jobs lost, 0 completed twice.
+
 ## Skills
 
 **AI/ML:** LLMs, Agents (LangGraph, tool calling, MCP), Embeddings & Semantic Search, RAG, Evals, `llama.cpp`, GGUF Quantization
