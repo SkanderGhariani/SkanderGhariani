@@ -2,7 +2,7 @@
 
 Software engineer from Tunis focused on backend development and applied AI.
 
-Most of my recent work is around self-hosted LLMs: deploying local models with `llama.cpp` and building backend services around them.
+Most of my recent work is around self-hosted LLMs: running local models with `llama.cpp` and building backend services and agents around them.
 
 ## Experience
 
@@ -22,9 +22,12 @@ Most of my recent work is around self-hosted LLMs: deploying local models with `
 ### [voicebrain](https://github.com/SkanderGhariani/voicebrain)
 A self-hosted multilingual voice-notes assistant for Telegram: local Whisper transcription, `llama.cpp` structured extraction with JSON-schema grammar, semantic search, and RAG.
 
+### [tabletalk](https://github.com/SkanderGhariani/tabletalk)
+An agent that answers plain-language questions about a SQLite database: LangGraph state machine with run_sql / run_python / ask_user tools, a sqlglot query guard on a read-only connection, sandboxed Python for charts, and an MCP server for Claude Code. Runs on a local Qwen2.5-7B via `llama.cpp`. Evaluated on a 100-question Spider sample (67% execution accuracy) plus a behaviour suite (prompt injection, write refusal, tool-call budgets).
+
 ## Skills
 
-**AI/ML:** LLMs, Embeddings & Semantic Search, `llama.cpp`, GGUF Quantization
+**AI/ML:** LLMs, Agents (LangGraph, tool calling, MCP), Embeddings & Semantic Search, RAG, Evals, `llama.cpp`, GGUF Quantization
 
 **Languages:** Python, TypeScript, JavaScript
 
